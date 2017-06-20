@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/koviroli/AndroidStudioProjects/MyDreamApp/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="/home/koviroli/AndroidStudioProjects/MyDreamApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.0.0_876e6d075b8097b897b1710dc2310d3a0b73636a/classes.dex" />
+    </item>
+    <item
+        jar="/home/koviroli/AndroidStudioProjects/MyDreamApp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="8be1b757a80ea780c18163b59cf1f709979f09e4">
+        <dex dex="/home/koviroli/AndroidStudioProjects/MyDreamApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_9cdcf11bd894e038dfcfb5f846a180c5de8346a0/classes.dex" />
+    </item>
+    <item
+        jar="/home/koviroli/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/24.0.0/2943c74db6d4346ab8c6531adac91fa05c137c40/support-annotations-24.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/home/koviroli/AndroidStudioProjects/MyDreamApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.0.0_3930cef93a10381b5dcb7d83272905a5789428e1/classes.dex" />
+    </item>
+    <item
+        jar="/home/koviroli/AndroidStudioProjects/MyDreamApp/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="/home/koviroli/AndroidStudioProjects/MyDreamApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.0.0_dae93f1756d9558d1cc11a8928479f9459a960c9/classes.dex" />
+    </item>
+    <item
+        jar="/home/koviroli/AndroidStudioProjects/MyDreamApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/home/koviroli/AndroidStudioProjects/MyDreamApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.0.0_28ef097282f8e8b69546e9e780fe2e2045a2a57b/classes.dex" />
+    </item>
+    <item
+        jar="/home/koviroli/AndroidStudioProjects/MyDreamApp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="3447d8536654e60552ed5df635d84339b171093c">
+        <dex dex="/home/koviroli/AndroidStudioProjects/MyDreamApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_7cbc36d3b4f8839de19023fdadaa7839ad7c269c/classes.dex" />
+    </item>
+    <item
+        jar="/home/koviroli/AndroidStudioProjects/MyDreamApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="/home/koviroli/AndroidStudioProjects/MyDreamApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.0.0_0b14a293436dbaa6cdaf0561551340c7415e6a1e/classes.dex" />
+    </item>
+    <item
+        jar="/home/koviroli/AndroidStudioProjects/MyDreamApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/home/koviroli/AndroidStudioProjects/MyDreamApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_3c4dc035e088282af6e898705000e0e567810524/classes.dex" />
+    </item>
+
+</items>
