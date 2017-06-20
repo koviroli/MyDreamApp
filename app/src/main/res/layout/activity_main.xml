@@ -10,4 +10,19 @@
     android:background="@drawable/dreambackground0"
     tools:context="com.mydream.roltech.mydreamapp.MainActivity">
 
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/editText"
+        android:layout_marginBottom="151dp"
+        android:enabled="false"
+        android:text="Set background"
+        android:textColor="@color/abc_background_cache_hint_selector_material_light"
+        android:textStyle="normal|bold"
+        android:textSize="20dp"
+        android:textIsSelectable="false"
+        style="@style/Base.TextAppearance.AppCompat.Medium.Inverse"
+        android:typeface="monospace"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true" />
 </RelativeLayout>
